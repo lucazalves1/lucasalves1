@@ -3,7 +3,7 @@
  - 👨‍💻- Atualmente desempregado com conhecimento em front end.
  - 👨🏻‍🏫- Estudando Analise e Desenvolvimento de Sistema. 
  - 🤲🏼- Contate-me no email: lucascias2004@gmail.com ou 
- whatsapp (48)98861-2722.
+ whatsapp (48)998376052
  
  <div>
   <a href="https://github.com/lucazalves1">
